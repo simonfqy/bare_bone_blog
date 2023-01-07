@@ -3,4 +3,9 @@ Valuable wisdom learned from the legal claim against a world-renowned scientist 
 
 Author: Anton (Qingyuan) Feng
 
-Time: Jan 4, 2023, originally published on my personal website.
+Time: Jan 4, 2023, originally published on [my personal website](https://www.antonfeng.me/martin-esters-breach-of-law-and-lessons-i-learned).
+### Table of Contents
+[Overview](#Overview)
+
+## Overview
+
