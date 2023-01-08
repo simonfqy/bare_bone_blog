@@ -21,7 +21,9 @@ Time: Jan 4, 2023, originally published on [my personal website](https://www.ant
     - [Expression of Gratitude](#expression-of-gratitude)
     - [Timeline of important events surrounding this claim](#timeline-of-important-events-surrounding-this-claim)
     - [How you have breached the laws](#how-you-have-breached-the-laws)
-    - [How I'm being really nice and cooperative towards you](#how-im-being-really-nice-and-cooperative-towards-you)
+    - [My Demands](#my-demands)
+      - [How I'm being really nice and cooperative towards you](#how-im-being-really-nice-and-cooperative-towards-you)
+    - [Questions you may have](#questions-you-may-have)
 
 ## Overview
 <img src="https://user-images.githubusercontent.com/10753120/211183046-c281cba6-c988-43a1-ac74-cb25aaa7bd00.jpg" width="400" height="600" />
@@ -386,7 +388,88 @@ Here is the original wording from my departmental offer letter: "***Your MADD-Ge
 
 Despite these violations of laws, I'm still very nice and cooperative towards you.
 #### How I'm being really nice and cooperative towards you
+Here are the ways where I'm being really nice to you, including many compromises and sacrifices I have made and am making.
+
+1. As I mentioned, I'm using a calculation method very favourable to you: under this method, my **principal** amount is not 24,073 (for two years), not 13,000 (for 2nd year only), only 6430.72 (a fraction of 2nd year), and certainly doesn't include the mental damage and loss of wages which you might be held responsible for. I hope you understand the sacrifices I made and cooperate. You'll unlikely see such favourable terms should we escalate this issue (which could eventually lead to court proceedings), and I reserve the right to claim these higher amounts in such cases.
+2. When I was living a miserably poor life back in 2017~2019, I didn't push you too hard to give me the funding. I was considerate and understood that you might be having problems with the grant application. I was hoping to get through this harsh time together with you and finally see money coming through.
+   1. But it turned out that you never cared. Company A gave you a lot of money and you didn't even spend a dime of it on me, and you got this funding well before I graduated.
+   2. And you knew my financial situation all along.
+   3. My poverty damaged my mental health, induced a higher level of "learned helplessness" which I already had due to an unfortunate upbringing, and negatively impacted my love life.
+   4. But even with all this, I'm not holding a strong grudge and holding you responsible for my hardship and asking for compensation for the damage you caused or contributed to. I'm only asking for a very low amount of the money I should've been entitled to in the first place, using a calculation method in your favour. I might increase my claim if we end up escalating.
+3. I didn't fail you. As of mid Oct 2022, the PADME paper (4-year old) now [has a citation count of 63](https://scholar.google.ca/scholar?q=padme+a+deep+learning-based+framework+for+drug-target+interaction+prediction&hl=en&as_sdt=0&as_vis=1&oi=scholart) in its arXiv version, 9 in the SFU library version, which is quite decent.
+   1. I think I lived up to my role as your student and this paper has become another asset in your academic career.
+4. In the timeline section, you can see several occasions where you were being inconsiderate, disrespectful, and sometimes borderline rude towards me, and these listed events are actually not exhaustive. However, I'm not asking you for compensation due to these behaviors, or depicting you as a very bad person. Instead, in this email, I truthfully described what you did well and gave them a fair appraisal. Because I know people have shortcomings and limitations and you're not supposed to be a perfect man (just like I'm not either), and I'm fine with that.
+5. Similarly applies to the fact that you forget things a LOT (which might be inevitable for a person of your age) and you turned out not to be the genius I initially envisioned. But just like I'm not a perfect student, I don't ask you to be a perfect supervisor; your achievements and sustained excellence despite these disadvantages are truly marvelous, which also serves as a testament to the power of being consistent and focusing your energy on the most important things: true geniuses are extremely rare, but if you do simple things flawlessly consistently and have excellence as a habit, you will be able to achieve so much and become a genius in other people's eyes. I'm being really nice and appreciative here.
+   1. Since you clearly know the most important things to do, I believe you'll make the right choice w.r.t. this claim.
+6. I helped bridge you to Terramera, which gave you the opportunity to make bigger impacts and have more funding.
+7. For this email, I initially planned to add some departmental leadership to the recipient list to get departmental mediation, but I decided to attempt settling this with you directly without them, to prevent some peer pressure for you.
+8. I finished this email during the Thanksgiving long weekend, but I wanted you to have a good weekend and especially a good Thanksgiving, which means a lot to a devout Christian like you, so I scheduled this email to be sent on the next business day after Thanksgiving.
+
+Now that you know how nice I am towards you, I'm making my demands, which I hope you will understand and cooperate.
 #### My Demands
+I'm making some very reasonable demands. Since I've already made so many compromises and been so nice to you as mentioned above, `I don't accept any negotiation on any of the demands in the numbered list below`.
+
+If you don't cooperate, or try to negotiate these non-negotiable terms, or are intentionally stalling for time as a reasonable person will suspect, I'll immediately escalate, and when I deem appropriate, update you of the escalation.
+
+The first steps of escalation means seeking mediation from entities that are generally believed to exist for public well-being, or in other words, the common good, but it is unlikely to result in more favourable terms for you, partly because I'll propose less favourable terms for you. If these step(s) of escalation don't resolve the issue, a court proceeding will be pursued. But please keep in mind that I reserve the right to directly escalate to court proceedings without first seeking mediation.
+1. `Please pay me the amount of at least 6739 CAD in full, in one lump-sum payment, at your earliest convenience.`
+   1. Because the interest will accumulate over time, I'll add the newly incurred interest to the 6739 CAD claim amount if a long enough period of time has passed without the payment being made. I will give you warnings before I increase the claim amount for such cases. If any terms/subterms within this numbered list aren't satisfied, the clock keeps ticking and I will, in principle, properly `add the interest as time passes, which results in higher claim amounts.`
+   2. The type of this funding must be either RAship, scholarship, fellowship, or other types of financial aid that a university will reasonably provide its full-time graduate students. I will not accept special types of funding that might incur income tax obligations and I'll have to waste time proving myself innocent to CRA.
+   3. `The associated funding letter MUST specify that the funding is to pay me for 2017~2018 academic year. If specific starting and ending dates are used, these dates MUST BE between Jan 1 2018, and Aug 31 2018`. This, together with the point above, is to avoid my having income tax issues.
+2. Upon the mutually satisfied resolution of this claim, I'll drop the charges on you on this specific matter, but I retain my other rights. In particular, I won't sign a Non-Disclosure Agreement (NDA) regarding the information mentioned in this email: I don't exchange my freedom of speech for the funding that I was entitled to from the beginning. But at the same time, I'll respect your legitimate privacy. I also promise I won't make false/distorted statements about you.
+3. There will be no illegal retaliation towards me in any form, anywhere, either directly from you or indirectly.
 ##### How I expect you to respond to this email and request
+The terms in the numbered list below are mostly non-negotiable.
+1. `I expect you to reply to this email (or any other way successfully informing me that you received this email) within 48 natural hours of me sending this email. This reply can be brief and simple.` Otherwise, I'll send email(s) to push you to read it.
+2. `No matter what happens (whether it took you several days to see this email, whether it ended up in the trash folder etc), if, within the next 11 business days AT MOST (INCLUDING the day that this email is sent), you don't give me the confidence, through substantial action, that you will cooperate with my demands and make real progress towards resolving this claim, I will escalate this issue` to aforementioned entities for mediation, or even court proceeding.
+   1. Stalling doesn't work. If you try to say something to buy more time, the clock keeps ticking and I will escalate when I lose confidence or when 11 business days are reached, whichever is earlier.
+   2. Deception from your side will be a deal-breaker.
+   3. I can grant, decline, or revoke extensions to this waiting period based on any reasonable guesses and doubts.
+   4. This does not mean that you MUST settle this case within at most 11 business days, but I do hope so. The amount is small and the case is simple.
+   5. I suggest you work on it and resolve it ASAP, in everyone's best interest.
+   6. Even if you make me confident at first, I can always escalate if I lose confidence later on, when the situation makes a person reasonably doubt the possibility of your satisfying my demands within a reasonable timeframe.
+3. In the process, I prefer having information exchange through email or instant messaging softwares, less so for video/audio conferencing or phone calls, and even less so for in-person meetings.
+4. Once escalated, I'll decide on a new response/resolution speed that I deem appropriate, if applicable.
+
 #### Questions you may have
+1. Q: How can you escalate it to court proceedings? It's passed the 2-year limitation period.  
+A: Due to COVID, there was a 1-year suspension of the limitation period from March 2020 to March 2021, and our last communication w.r.t. this issue was in Mar 2020. So now this case is still well within this period.
+2. Q: What if I turn a blind eye to this email?  
+A: Then I will escalate faster and propose terms much less favourable to you.
+3. Q: Do you have evidence for the things you mentioned?  
+A: Yes, for most of them, especially the important ones. I have a pretty good document/email management habits, and I sometimes proactively gather evidence. All of the evidence was obtained legally. For some of the things I mentioned in the email, I don't have the evidence on hand, but usually it can be easily inferred based on publicly available info, or some info that you or other entities will need to provide upon receiving a subpoena (if a subpoena is ever needed), like the status of the MADD-Gen program at the beginning of 2016.
+4. Q: Will you illegally harm me in any way?  
+A: No. I will resolve this issue with completely legal approaches. No illegal actions will be pursued by me, either directly or indirectly, towards either you or your related individuals/entities.
+5. Q: You now have a pretty good job with a very decent salary. Why do you still want to start this claim for a relatively underwhelming amount of money? It seems so insignificant to you.  
+A: First, how much money I earn is irrelevant to this case, your legal violations should be punished, and my success doesn't pardon you.  
+Money is an important aspect of this case, but not the most important. Otherwise I would be claiming more than 24,073 CAD from the beginning. The purpose is to show you that you cannot harm people without any repercussions, and hopefully deter you from such misconducts in the future. I see it as a way to not only get justice for myself, but also make the world a better place. For me, not only economic value is value; spiritual and psychological value is equally important, if not more important. I decided that working on this claim is the best use of my time and no one will have this decision swayed.
+6. Q: Why should I cooperate?  
+A: Because it's in everyone's best interest, especially yours. I'm giving you very reasonable and favourable terms which you might not get in subsequent stages along the escalation path. This holds true even though I'm not going to sign the NDA with you. Take the opportunity.
+7. Q: I can offer you a higher amount than you asked, will you sign an NDA with me?  
+A: No. NDA is a non-negotiable term no matter the amount you're willing to offer me. Besides, I don't think such an NDA will be perfectly legal or in the public interest.
+8. Q: Why can't you simply accept the 6430.72 CAD principal amount to settle this case?  
+A: I'm already doing you a huge favor by asking for such a low amount of 6739, as already explained in the email. The interest calculation method I used is completely reasonable and legal. It's time for you to make your compromise, I'll not back down on this. If you attempt to negotiate, I'll decline your request and escalate, no matter whether the 11 business day deadline I set has been reached or not.
+9. Q: If this issue is so important to you, why did you wait for so long before actually sending this email?  
+A: Because of all kinds of reasons. Now multiple factors have worked together in my favor for me to take the initiative and solve this historical issue. This actually implies that there might have been other students having similar (though perhaps less severe) issues with you, but the factors haven't worked in their favor to prompt them to confront you courageously. You should be grateful that I gave you so much time and opportunities to fix your wrongdoing, and am even giving you generous terms right now. You should also be grateful that you got away with your wrongdoings (if any) to other people. But it doesn't mean you're entitled to do the wrong things. Law is a very low version of moral standard. Even if you don't breach the laws, you might still be doing something wrong.
+10. Q: Why do you think you'll win if an arbitration or court proceeding takes place?  
+A: I've explained how you've breached the laws. And I'm giving you very reasonable and favourable terms now. If you turn them down and go to court, the judge will think you're greedy in turning down reasonable settlement solutions, ending up wasting public resources and everyone's time, which means the ruling will not be in your favor.
+11. Q: Will you abandon this claim if I cooperate?  
+A: Yes. If you truly cooperate, I will abandon this claim, and I will not ask for the higher principal amounts (24,073, 13,000, etc, mentioned in this email) for this case. That said, I won't forgo any other rights.
+12. Q: Why don't you reflect upon yourself and realize how poorly you performed and how reasonable I have already been towards you? You deserve this.  
+A: I'm sorry if you think this way. Although I'm definitely imperfect, I don't agree that I performed that poorly to deserve such treatment. And for things you truly did well, I do acknowledge them and always give them fair appraisal, within or outside of this email, and I am and will forever be grateful for the truly good things you did for me and humankind. However, I cannot back down on some principles; it's not only for my own interest, but for the interest of society. It's you violating the law, not me.  
+Besides, many professors will provide their students with assistance in applying for departmental financial aids/scholarships, etc., if they didn't have the funding themselves. You did not provide similar help here. Perhaps forcing me to be in utmost poverty to incentivize me to get the paper published was in your best interest, which dictated how you'd handle the situation. However, putting me in such man-made poverty negatively affected my mental health, and quite likely, my research output.
+13. Q: I don't treat other students like this, only you.  
+A: First I doubt it. Also, even if it's true, I only need to speak for myself. You violated the law in my case and that suffices for me to write this email or take any ensuing legal actions if you don't cooperate.
+14. Q: Do other people know about it?  
+A: Yes, I do have several friends who are aware of the situation between us and are updated on the development, but they certainly won't harm you in any way w.r.t. this issue.
+15. Q: Are there accompanying emails to this one?  
+A: Yes, there are two of them. They're sent to you at almost the same time.
+16. Q: What is your expected timeframe to get this claim resolved?  
+A: I cannot tell you. I can tell you it is long enough to be reasonable, but short enough to prevent you from using stalling tactics. I may or may not give you warnings before my patience runs out.
+
+I hope to hear from you very soon and let's get this settled!
+
+Best Regards,
+
+Anton (Qingyuan) Feng
 ### Martin's reply
