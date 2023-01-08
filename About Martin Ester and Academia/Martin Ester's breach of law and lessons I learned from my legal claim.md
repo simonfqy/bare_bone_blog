@@ -10,7 +10,7 @@ Time: Jan 4, 2023, originally published on [my personal website](https://www.ant
   - [Condensed timeline of events](#condensed-timeline-of-events)
 - [Lessons I learned from the legal claim](#lessons-i-learned-from-the-legal-claim)
   - [Avoid becoming a research graduate student](#avoid-becoming-a-research-graduate-student)
-  - [Don't go for the money-saving option](#don't-go-for-the-money-saving-option)
+  - [Don't go for the money-saving option](#dont-go-for-the-money-saving-option)
   - [Be proactive](#be-proactive)  
 
 ## Overview
