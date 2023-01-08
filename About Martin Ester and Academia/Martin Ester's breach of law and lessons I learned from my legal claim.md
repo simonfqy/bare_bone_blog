@@ -8,7 +8,10 @@ Time: Jan 4, 2023, originally published on [my personal website](https://www.ant
 - [Overview](#overview)
 - [The Story](#the-story)
   - [Condensed timeline of events](#condensed-timeline-of-events)
-- [Lessons I learned from the legal claim](#lessons-i-learned-from-the-legal-claim)  
+- [Lessons I learned from the legal claim](#lessons-i-learned-from-the-legal-claim)
+  - [Avoid becoming a research graduate student](#avoid-becoming-a-research-graduate-student)
+  - [Don't go for the money-saving option](#don't-go-for-the-money-saving-option)
+  - [Be proactive](#be-proactive)  
 
 ## Overview
 
@@ -53,3 +56,50 @@ Here are some valuable lessons I learned from this story, which might help reade
 ```diff
 - Avoid becoming a research graduate student, and don’t pursue a career in academia, unless you have compelling reasons.
 ```
+As my story shows, there are a lot of risks if you choose to become a research graduate student, especially if you become a student in a foreign country. Just to name a few:
+1. **The supervisor-student relationship is almost modern slavery**: your supervisors have a disproportionate amount of power over you, which they might abuse. They can decide your funding, your research progress, the (existence and) order of your name in the author list, your graduation requirements and date, approve or deny your internship, etc. Besides, there’s information disparity in the relationship: it’s often the student’s first or second time being a research graduate student, but the supervisor usually has had many prior students. And you have little leverage against them.
+2. **This power inequality is usually exacerbated by your supervisors’ intrinsic advantage over you.** They are typically older, wealthier, more influential and powerful, and have more social experience than you, which means they’ll have more power over you even without the supervisor-student relationship. It’s even worse if you’re in a foreign country.
+3. **It’s extremely hard for prospective students to get truthful reviews of professors**, no matter how thorough research they’ve done on prospective supervisors, for the following reasons:
+   1. It’s very costly and hard for students to publicize negative information about their (former) supervisors. I’m very lucky to be able to do so, because I’ve graduated, and made up my mind to never go back to school again or work in academia, consequently, Martin Ester doesn’t have any leverage against me. But for most students, especially those who stay in academia, offending their former supervisors could damage their career prospects, which discourages them from publicizing such negative info. Even if they don’t have this concern, they might still be unwilling to disclose this info because it takes time to write and doesn’t benefit them.
+   2. Supervisors and their affiliated institutes have vast amounts of power and resources to delete or dampen such unfavorable info. I won’t go into much detail here.
+   3. Thus, until the beginning of 2023, there’s no negative information about Dr. Ester as a supervisor anywhere on the Internet.
+4. **Many factors outside your control can influence your research output and study experience;** you might end up having a terrible experience due to bad luck. For example, whether your supervisor has enough expertise in your research fields and can spot potential risks early on, whether your research direction happened to produce some pretty good results, whether the reviewers like your research paper and accept it, etc. You can see some examples from the “Timeline” section in my demand letter.
+5. **Depending on your field of study, the opportunity cost of a research graduate degree can be really high, especially if your graduation is deferred.** Say, if I can earn an annual salary of 120K CAD per year after graduation (just for easier calculation), deferring graduation by 6 months will incur a lost income of 60K CAD, which is already higher than the total amount of money I spent throughout my master’s degree. OTOH, if I enrolled in a 16-month CS MSc program instead of a 2-year program, I could earn an additional 80K CAD due to graduating 8 months earlier.
+6. **Your interest may not be aligned with your supervisor’s, and they can use or abuse their power to make things unfavorable to you.** For example, your interest could be getting your degree and starting working ASAP, but your supervisor’s interest could be getting more publications and won’t let go of you easily. Guess who usually wins this game.
+7. **Many points I mentioned above also apply to working in academia.** Unless you have strong reasons, I suggest you not work in academia. An in-depth explanation is outside the scope of this article.
+
+### Don't go for the money-saving option
+```diff
+- Sometimes you shouldn’t go for the money-saving option: free stuff can be the most expensive.
+```
+This lesson is twofold: one for me, the other for Dr. Ester.
+1. **For me, saving tuition money resulted in a higher loss, in both money and life experience.** An important reason for my decision to come to SFU and become Dr. Ester’s student is money: SFU had very low tuition and offered a juicy fellowship (which we all know wasn’t fulfilled), while all my other offers/admissions weren’t as enticing and cost a lot more. My family wasn’t very well-off and my father was a very nasty person, he didn’t want to spend much money on my postgraduate education, which made SFU’s offer look even better to me.  
+However, due to the associated opportunity cost, this choice was actually the most expensive; furthermore, my experience at SFU wasn’t great either, for which I won’t go into details.
+3. As for Dr. Ester, he tried to save money but eventually, he lost both the money and some reputation. He initially held on to the funding to incentivize me to get the paper published. However, even when it became clear that the paper cannot be published anymore (as of Mar 2020), he still refused to pay me. And he even tried to avoid the payment after I sent him the demand letter (see the email communication in the appendix).  
+Eventually, the case was settled, and he still had to pay me. If he paid me before I made the demand, I wouldn’t have written this article; I would still write another article to give a truthful review of him, which would be slightly more favorable than this one. Consequently, Dr. Ester not only lost the money he held so dear, but also lost some reputation which is much more precious than money.
+
+### Be proactive
+```diff
+- Be proactive.
+```
+This is habit #1 of the famous book, The 7 Habits of Highly Effective People, which I recommend everyone to read.
+1. **Never put too much trust in anyone or anything, be the owner of your life and take responsibilities.**  
+I didn’t have a very good father, while Dr. Ester seemed to be a virtuous person with outstanding achievements, so I treated him as a father figure and placed a great deal of trust in him, which turned out to be ill-placed. For example, I shouldn’t have trusted his promise to “recommend you to some pretty good companies so you don’t need to apply for an internship”. But luckily, although blindly trusting his promise indeed brought me some troubles, I was able to find an internship by myself relatively soon, and his gross negligence/incompetence in internship recommendation didn’t lead to too disastrous outcomes. More details are in the “Timeline” section of my demand letter.  
+Prior to launching this legal action, I consulted some people for their opinions. My parents and some friends were strongly opposed to this action and their reasons varied, some were justified and others weren’t.  
+East Asian (especially Chinese) culture tends to defend and look up to senior people and teachers, which could be justified in their traditional societies, but the modern world has become drastically different, and these beliefs may not be justified anymore. Beliefs should serve human needs, not the other way around.  
+<ins>I eventually decided that I should hold my ground and not listen to these people’s opinions.</ins> They are not victims and have no incentive to punish Dr. Ester, nor do they benefit from this legal action, so they don’t have strong reasons to support it; OTOH, this legal action indeed brings some risks to me. Therefore, their rational choice is to display their care for me by dissuading me from such an action, because they won’t lose anything if I don’t launch the claim; I will suffer a loss since I cannot do myself justice, but they don’t really care. OTOH, if they support my launching this claim and eventually it doesn’t work out properly, incurring huge losses on me, I might secretly blame them and they lose my trust, which is a more severe outcome for them.  
+Obviously, their opposition simply comes from their stances and interest, not necessarily in my best interest. I must listen to their opinion with a huge grain of salt. I am ultimately responsible for and benefitting from my decisions, not them. Thus, I carried out my plan undeterred.  
+<ins>Let’s summarize the learning here. Try to reduce your reliance on other people. No one cares about you more than yourself, no one or their opinions deserves your wholehearted trust. Be assertive, be responsible for your own life, and don’t give other people chances to ruin your life by simply failing to keep their promises; no matter what other people say, take it with a grain of salt and do whatever is truly in your best interest.</ins>
+2. **Stay vigilant and protect yourself: misconduct and legal violations can be more common than you think.**  
+You wouldn’t think an RSC-caliber scientist would rather violate the law than pay me 6430.72 CAD, but it indeed happened. And I’m pretty sure that legal violations are very common in academia and beyond, some done by very respectable people, but most of these wrongdoings are not publicized.  
+<ins>I suggest employing 2 lines of defense to protect yourself and the public</ins>:  
+First, you clearly set the boundaries and prevent/stop other people from compromising your personal or public interest, don’t back down even if the other person is very likable, respectable, renowned, etc. This defense can prevent things from getting too severe, and is especially useful if the other person is having immoral but legal behaviors.  
+If you cannot use the first line of defense, then fall back to the second one: intentionally gather and preserve documents that might serve as evidence later to do yourself justice.  
+Here are my suggestions for preserving evidence:  
+   1. Manage your files effectively, keep multiple copies of them, and don’t unnecessarily delete them.
+   2. Refrain from deleting relevant emails.
+   3. Try to convert important oral information (notices, agreements, important numbers, promises, etc.) into written documents.
+   4. You can make audio recordings stealthily if it complies with your local laws and regulations. There are also some tips and guidelines for making audio recordings for evidentiary purposes, which you can learn from some online sources.
+3. **Love yourself, stay confident and optimistic, and never yield to wrongdoers.** In my case, when I was Dr. Ester’s student, I deeply believed that I deserved respect and fair treatment, what Dr. Ester did to me was unjust, and I would eventually do myself justice. His compromising my interest wasn’t due to my inherent incompetence; instead, it was due to the nature of our relationship and his advantages in social status and influence, wealth, etc., which naturally come with his age. Even if I was indeed inherently incompetent, it doesn’t mean he can violate the law and I should still defend my interests.  
+If you ever find yourself in a similar situation, <ins>you should believe that you’re worthy, defend your interest, and believe that the wrongdoers should and will be punished. Don’t justify their wrongdoing at your expense, don’t accept it as something normal or reasonable.</ins>  
+Humans are all flawed and you are entitled to your legal rights regardless of your imperfections and flaws. Don’t fall for the victim mindset, where you force yourself to be perfect before you feel “worthy” of your legal rights, which can be a common mindset for some people due to their problematic upbringing.  
