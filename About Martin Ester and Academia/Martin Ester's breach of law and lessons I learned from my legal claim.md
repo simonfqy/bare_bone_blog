@@ -30,7 +30,7 @@ Time: Jan 4, 2023, originally published on [my personal website](https://www.ant
 ## Overview
 <img src="https://user-images.githubusercontent.com/10753120/211183046-c281cba6-c988-43a1-ac74-cb25aaa7bd00.jpg" width="400" height="600" />
 
-**TL, DR; Prof. [Martin Ester](https://en.wikipedia.org/wiki/Martin_Ester) deceived me into becoming his master's student by making false funding promises, which eventually weren’t fulfilled. I launched a legal claim against him and successfully got back some of my owed funding. This article describes lessons I learned from the story and my advice to readers, I also have my [demand letter](#my-demand-letter) included in the appendix.**
+**TL, DR; Prof. [Martin Ester](https://en.wikipedia.org/wiki/Martin_Ester), a world-renowned scientist, deceived me into becoming his master's student by making false funding promises, which eventually weren’t fulfilled. I launched a legal claim against him and successfully got back some of my owed funding. This article describes lessons I learned from the story and my advice to readers, I also have my [demand letter](#my-demand-letter) included in the appendix.**
 
 A shorter version of this article is [on Medium](https://antonfeng.medium.com/martin-esters-breach-of-law-and-lessons-i-learned-from-my-legal-claim-7fdc964e8500?source=friends_link&sk=a0e0f646d00f85686031fd29623badaa), which doesn't have the appendices containing the demand letter.
 
