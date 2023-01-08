@@ -52,7 +52,7 @@ Before I go into the lessons I learned from this legal claim, let me give you a 
 3. In Feb 2016, Dr. Martin Ester reached out to me to recruit me as his master’s student under the MADD-Gen program, using its funding promise as a major selling point, without mentioning its imminent termination. 
 4. In Mar 2016, I accepted SFU’s offer as a thesis-based master in Computing Science under the MADD-Gen program. The offer letter promised a MADD-Gen fellowship funding of “at least 21,000 CAD per year for the first 2 years, with probably continued funding beyond the first two years”. I accepted the offer largely due to the enticing financial aid. 
 5. In July 2016, I was informed by Dr. Ester of “some uncertainty” surrounding the funding, and he suggested I apply for TA to cover the gap. I complied. 
-6. In Sept 2016, I started my studies as a thesis-based mater supervised by Dr. Martin Ester. 
+6. In Sept 2016, I started my studies as a thesis-based master supervised by Dr. Martin Ester. 
 7. In Jan 2017, I was informed that the funding wasn’t simply “uncertain”. It was terminated and I was deceived all along. Later in 2017, Dr. Ester tried to get funding continuation by setting up an “Omics” program to replace MADD-Gen, but was unsuccessful in getting MADD-Gen students funded through this new program. 
 8. In May 2017, I started working on my thesis research project, the goal was to get the work published in a journal. 
 9. In the academic year 2016 ~ 2017, I got 27.5K CAD of funding, part of which comes from TA salary. In the academic year 2017 ~ 2018, I only got 8K CAD. 
