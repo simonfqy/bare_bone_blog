@@ -5,7 +5,10 @@ Author: Anton (Qingyuan) Feng
 
 Time: Jan 4, 2023, originally published on [my personal website](https://www.antonfeng.me/martin-esters-breach-of-law-and-lessons-i-learned).
 ### Table of Contents
-[Overview](#Overview)
+- [Overview](#overview)
+- [The Story](#the-story)
+  - [Condensed timeline of events](#condensed-timeline-of-events)
+- [Lessons I learned from the legal claim](#lessons-i-learned-from-the-legal-claim)  
 
 ## Overview
 
@@ -26,3 +29,27 @@ Yes, a world-renowned scientist, an RSC fellow, would rather violate the Contrac
 ### Condensed timeline of events
 Before I go into the lessons I learned from this legal claim, let me give you a bit of background by presenting you with a condensed timeline of events. 
 
+1. At a certain time before 2016, the MADD-Gen program, which was a bioinformatics program in SFU funded by NSERC, was apparently going to have its funding terminated by the end of the calendar year 2016, due to incompetent and irresponsible management.
+2. In Jan 2016, I applied for SFU’s Thesis-based Master in CS program (without expressing an interest in MADD-Gen).
+3. In Feb 2016, Dr. Martin Ester reached out to me to recruit me as his master’s student under the MADD-Gen program, using its funding promise as a major selling point, without mentioning its imminent termination. 
+4. In Mar 2016, I accepted SFU’s offer as a thesis-based master in Computing Science under the MADD-Gen program. The offer letter promised a MADD-Gen fellowship funding of “at least 21,000 CAD per year for the first 2 years, with probably continued funding beyond the first two years”. I accepted the offer largely due to the enticing financial aid. 
+5. In July 2016, I was informed by Dr. Ester of “some uncertainty” surrounding the funding, and he suggested I apply for TA to cover the gap. I complied. 
+6. In Sept 2016, I started my studies as a thesis-based mater supervised by Dr. Martin Ester. 
+7. In Jan 2017, I was informed that the funding wasn’t simply “uncertain”. It was terminated and I was deceived all along. Later in 2017, Dr. Ester tried to get funding continuation by setting up an “Omics” program to replace MADD-Gen, but was unsuccessful in getting MADD-Gen students funded through this new program. 
+8. In May 2017, I started working on my thesis research project, the goal was to get the work published in a journal. 
+9. In the academic year 2016 ~ 2017, I got 27.5K CAD of funding, part of which comes from TA salary. In the academic year 2017 ~ 2018, I only got 8K CAD. 
+10. In 2018, I asked Dr. Ester multiple times for funding, but he insisted on using the acceptance of the paper by a journal as a prerequisite for releasing the funding. And he declined to pay me 13K, saying that the “overfulfilled” portion in year 1 should be deducted from the amount in year 2, resulting in only 6.4K CAD. 
+11. In Dec 2018, the submitted paper got a favorable first round of review. I tried to negotiate funding with Dr. Ester and he agreed to release half (3.2K CAD) of it immediately. But several days later, he retracted, reiterating the acceptance of the paper as the prerequisite. I then decided to get graduated first. 
+12. In Mar 2019, I graduated. 
+13. In 2019, the paper cannot seem to get published despite multiple attempts, because the reviewers have changed, new reviewers were much more critical. 
+14. In Mar 2020, I asked Dr. Ester for funding again. He again used acceptance of the paper as the prerequisite. 
+15. In Oct 2022, after researching laws, the offer letter and university regulations, I finally launched a legal claim against Dr. Ester and successfully forced him to pay me 6.7K CAD (300 of which was accumulated interest) through a settlement agreement.
+
+For more details, you can read the demand letter in the appendix. That demand letter started a thread of email communication (part of which is included in the appendix), which led to Dr. Ester seeking help from the university legal counsel, and they eventually agreed to completely satisfy my demands and settle the case. My email communication with the legal counsel is omitted from this article.
+
+## Lessons I learned from the legal claim
+Here are some valuable lessons I learned from this story, which might help readers, especially prospective research graduate students.
+### Avoid becoming a research graduate student
+```diff
+- Avoid becoming a research graduate student, and don’t pursue a career in academia, unless you have compelling reasons.
+```
