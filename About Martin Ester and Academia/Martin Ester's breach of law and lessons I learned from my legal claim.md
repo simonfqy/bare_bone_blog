@@ -211,7 +211,7 @@ If Dr. Ester could go back in time, he definitely wouldn’t have done this to m
 So the lesson is: be a good person, don’t violate moral standards and law, otherwise you might end up losing much more than what you gained. Don’t gamble with your reputation.
 
 ## Appendix: selected email communications
-This appendix only contains a subset of the email communication started by my demand letter. Other emails, including how we reached the agreement, are omitted from this appendix.
+This appendix only contains a subset of the email communication started by my demand letter. Other emails, including how we reached the settlement agreement, are omitted from this appendix.
 ### My demand letter
 The demand letter was sent on Oct 11 at 7:30 AM. 
 Title: **[URGENT] Request for my remaining funding of 2017~18 academic year, otherwise legal actions will ensue**
