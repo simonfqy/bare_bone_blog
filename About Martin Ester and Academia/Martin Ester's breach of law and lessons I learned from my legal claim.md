@@ -24,6 +24,8 @@ Time: Jan 4, 2023, originally published on [my personal website](https://www.ant
     - [My Demands](#my-demands)
       - [How I'm being really nice and cooperative towards you](#how-im-being-really-nice-and-cooperative-towards-you)
     - [Questions you may have](#questions-you-may-have)
+  - [Martin's reply](#martins-reply)
+  - [My reply](#my-reply)
 
 ## Overview
 <img src="https://user-images.githubusercontent.com/10753120/211183046-c281cba6-c988-43a1-ac74-cb25aaa7bd00.jpg" width="400" height="600" />
@@ -473,3 +475,42 @@ Best Regards,
 
 Anton (Qingyuan) Feng
 ### Martin's reply
+This reply was received on Oct 12 at 14:44. Prior to this reply, I sent multiple emails to Martin to push him to reply me.
+
+Dear Qingyuan, 
+
+You deserve the financial support at the promised level for the period of time when you were in good standing. I thought that we had reviewed this carefully long time ago before your graduation, but we can review it again now. 
+
+As basis for our review, we need your admission letter with your funding promise (the promises have been changing in the course of the years) and the time from which you were no longer in good standing. Can you provide me these two pieces of information?
+
+Best,
+
+Martin Ester
+### My reply
+I immediately replied to Martin after getting his email. This reply was sent on Oct 12 at 15:02, just 18 minutes after Martin’s reply. Other emails in our communication, including how we reached the agreement, are omitted from this article.
+
+Hi Dr. Ester, 
+
+It's great to hear back from you. 
+
+`I've explained the situation very clearly in my original email, you just need to read it more carefully. And in that email's attachment` you can find the departmental offer letter which includes the funding promise, which is a minimum of 21000 per year. I believe it's legally binding throughout my degree, since I didn't drop out or something like that. 
+
+And keep in mind that you deceived me into signing this offer letter in the first place by committing misrepresentation, and I'll be ruled more favourably in a court proceeding due to this simple fact of deception. "Funding promise changing over the years" is an invalid argument in the court in this case. 
+
+Everything is explained in my original email, I urge you to read it carefully. I have highlighted the relevant info in the original email with different fonts and colors. 
+
+`And, "satisfactory progress" is a terminology stringently defined in SFU's graduate regulations. That I also explained in the original email. I was never deemed as having unsatisfactory progress based on that regulation.` All of which I explained very clearly and in detail. If "satisfactory progress" is what you mean by "good standing", then "no longer in good standing" doesn't apply to me. 
+
+The clock keeps ticking and I urge you to read my original email carefully, including its attachments. If you claim some documents/info that I've already sent you, that won't buy you more time; in fact, it's a waste of our time: you have to spend some time typing the words, I have to spend time reading it and typing a reply. While in fact, all you need to do is to read my original email more carefully. 
+
+I have all the evidence to convict you in a trial. 
+
+`All the info in this email is already contained in my original email.`
+
+Please remember that the current terms are already in your favour and I don't accept negotiations on any of the non-negotiable terms I laid out in the original email. 
+
+Wish you make the right decision ASAP. And wish you are having a great day. 
+
+Regards,
+
+Qingyuan Feng
