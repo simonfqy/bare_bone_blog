@@ -15,6 +15,7 @@ Time: Jan 4, 2023, originally published on [my personal website](https://www.ant
   - [Be prudent and pragmatic](#be-prudent-and-pragmatic)
   - [Learn legal knowledge](#learn-legal-knowledge)
   - [Wrongdoings have repercussions](#wrongdoings-have-repercussions)
+- [Important announcements](#important-announcements)
 - [Appendix: selected email communications](#appendix-selected-email-communications)
   - [My demand letter](#my-demand-letter)
     - [About this email](#about-this-email)
@@ -210,6 +211,17 @@ Of course, you need to set clear boundaries to protect your interest while being
 There is a law of the universe: everything you do has some consequences. Sometimes other people will swallow the bad consequences of your behavior, but not always. Dr. Ester might think that his legal violation was very minor, but I still don’t tolerate it, and rightfully so.  
 If Dr. Ester could go back in time, he definitely wouldn’t have done this to me. Clearly, the money he temporarily saved didn’t worth the damage to his reputation.  
 So the lesson is: be a good person, don’t violate moral standards and law, otherwise you might end up losing much more than what you gained. Don’t gamble with your reputation.
+
+## Important announcements
+It takes a lot of courage to be a whistleblower. I want to minimize my risk, and make sure my whistleblowing is maximally effective. So here are some important announcements I need to make to facilitate these goals.
+1. If the below cases happen to me, they are most likely premeditated crimes, from which Martin Ester’s suspicion cannot be ruled out, due to my whistleblowing activity against him.
+   1. I am physically healthy and don’t have any medical conditions that can lead to my sudden death. I also live cautiously and healthily, without any habits that could lead to sudden death. If I suddenly die, it is suspicious and could be a murder.
+   2. I am mentally healthy and don’t suffer from any mental illnesses. I’ve never committed or tried to commit suicide, and I promise I won’t commit suicide. If I commit “suicide” someday, it’s most likely a murder. 
+   3. I am a very cautious person. I don’t travel a lot, I don’t play extreme sports, and I’m so careful that I haven’t had any major traffic accidents, or any other types of major accidents. If such an “accident” happens to me, it is likely a premeditated crime.
+   4. I don’t have relationships with any crime organizations, nor do I engage in any illegal activities. If it seems that some crimes happened to me due to my illegal activities, these “illegal activities” are most likely faked by the criminals to make them look less guilty. 
+2. Dr. Ester and SFU might launch PR campaigns to remove, denigrate or downplay this article. Please stay vigilant.
+   1. Since this article is based on evidence, I’m not afraid if they send me a lawyer’s letter, and I’ll try my best to avoid it from being removed, but I cannot guarantee my success.
+   2. They might get other people to write positive reviews of Dr. Ester to make this article less conspicuous and less convincing. If that happens, please notice my article was written before theirs, they were merely reacting; besides, even if these positive reviews are based on facts, these facts can coexist with the legal violation that Dr. Ester has committed. Even I have complimented him in my demand letter.
 
 ## Appendix: selected email communications
 This appendix only contains a subset of the email communication started by my demand letter. Other emails, including how we reached the settlement agreement, are omitted from this appendix.
