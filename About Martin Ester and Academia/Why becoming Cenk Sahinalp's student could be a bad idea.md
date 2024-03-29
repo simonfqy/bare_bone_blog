@@ -8,4 +8,4 @@ However, a great researcher as he is, I have a very negative judgment of him, bo
 
 You might think that video conferencing with Cenk is still very helpful for those students, but meeting Cenk in person should never be a privilege for them in the first place: it should be a right, unless they knew his absence before they accepted the PhD/MSc offer. Even with tools like video conferencing, face-to-face interaction is still indispensable, especially in a close relationship like a supervisor-student relationship, and even more so for supervisors and students who have never met in person. This distance and unfamiliarity don't bode well for the quality of guidance those students would get, but Cenk could not care less. This deception from Cenk probably constitutes a minor [fraud](https://laws-lois.justice.gc.ca/eng/acts/c-46/section-380.html).
 
-**The second problem: his irresponsibility severely harms students.** There was a bioinformatics program in SFU called MADD-Gen.
+**The second problem: his irresponsibility severely harms students, both his and other professors'.** There was a bioinformatics program in SFU called MADD-Gen.
