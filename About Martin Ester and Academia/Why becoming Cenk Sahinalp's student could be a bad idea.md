@@ -1,1 +1,1 @@
-Dr. Cenk Sahinalp is an accomplished scholar in the field of bioinformatics.
+[Dr. S. Cenk Sahinalp](https://ccr.cancer.gov/staff-directory/s-cenk-sahinalp) is an accomplished scholar in bioinformatics.
