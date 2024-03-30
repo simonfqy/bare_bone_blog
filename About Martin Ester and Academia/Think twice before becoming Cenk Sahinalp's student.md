@@ -83,3 +83,5 @@ I cannot speculate too much and I'll stop here.
 ## Implications for readers
 
 I said a lot of bad things about Dr. Sahinalp. However, based on my limited understanding of him, he's actually okay in academia. At least 20% of all professors could be worse than him. Meanness and misconduct are so rampant in academia that, it effectively lowers the participants' moral standards. Due to the nature of academia, lots of these issues are not made known to the outside world, professors end up enjoying a higher social status than they truly deserve. I'll write another article about this dark side in the future.
+
+## Disclaimer
