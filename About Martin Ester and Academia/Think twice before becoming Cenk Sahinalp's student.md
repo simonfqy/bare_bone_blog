@@ -78,7 +78,7 @@ But now we know his other problems, this problem becomes harder to ignore. I gue
 - probably has moral issues which makes you feel nasty
 - probably (?) asks for higher authorship than he truly deserves
 
-I cannot speculate too much and I'll stop here. But in my opinion, unless this problem is significantly impacting your psychological health, it shouldn't be much of a concern: there are always more important aspects to concern.
+I cannot speculate too much and I'll stop here. But in my opinion, unless this problem is significantly impacting your psychological health, it shouldn't be much of a concern: there are always more important aspects to focus on.
 
 ## Implications for readers
 
