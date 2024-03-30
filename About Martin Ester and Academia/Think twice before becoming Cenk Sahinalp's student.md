@@ -6,7 +6,7 @@
 
 However, a great researcher as he is, I have a very negative judgment of him, both as a supervisor and as a person, although I've never been his student or directly interacted with him in any way.
 
-**He is very selfish, completely disregarding his responsibility or other people's interests while pursuing his own interest, probably even committing minor fraud. It may even suffice to say, he is slightly despicable.**
+**He is very selfish, completely disregarding his responsibility or other people's interests while pursuing his own interest, probably even committing minor fraud. It may even suffice to say, he is despicable.**
 
 ## Problem 1: Deceptive
 
