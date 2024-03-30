@@ -22,9 +22,9 @@ It got terminated prematurely due to MADD-Gen committee's failure to meet the pr
 
 **This story clearly showed how selfish and despicable Cenk truly was.** 
 
-Unlike some other of their failures that are truly hard to avoid, for example, being unable to open some courses promised in MADD-Gen program plan due to little to no students enrolling, sending students for exchange isn't something difficult to do: it just requires a small amount of attention and effort from the program chair, he didn't have to create anything new, as the exchange program was already running smoothly under the earlier rotational chairs. Yet Cenk refused to fulfill such a simple responsibility, probably because it wouldn't benefit him personally, and he didn't care about the students' development or the long-term success of MADD-Gen program.
+Unlike some other of their failures that are somewhat justified, for example, being unable to open some courses promised in MADD-Gen program plan due to little to no students enrolling, sending students for exchange isn't something difficult to do: it just requires a small amount of attention and effort from the program chair, he didn't have to create anything new, as the exchange program was already running smoothly under the earlier rotational chairs. Yet Cenk refused to fulfill such a simple responsibility, probably because it wouldn't benefit him personally, and he didn't care about the students' development or the long-term success of MADD-Gen program.
 
-If the pursuit of his personal interest prevented Cenk from fulfilling such a simple responsibility, despite knowing that it could lead to years of misery for many students (including me), what else do you expect him to do? If you become his student, do you think he cares about you as a person at all?
+If the pursuit of his personal interest prevented Cenk from fulfilling such a simple responsibility, despite knowing that it could lead to years of economic hardship for many students (including me), what else do you expect him to do? If he has to choose between your interest and his own, do you think he'll even hesitate for one second? 
 
 **Besides, it also exhibited an astonishing amount of incompetence and irresponsibility in the SFU School of Computing Science.**
 
