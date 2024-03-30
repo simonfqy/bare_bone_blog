@@ -26,7 +26,7 @@ Unlike some other of their failures that are somewhat justified, for example, be
 
 If the pursuit of his personal interest prevented Cenk from fulfilling such a simple responsibility, despite knowing that it could lead to years of economic hardship for many students, what else do you expect him to do? If he has to choose between your interest and his own, do you think he'll even hesitate for one second? 
 
-***Cenk doesn't even honor the promises he made to the FUNDING agency, why would he honor the promises he made to you, once you become his student?***
+***Cenk doesn't even honor the promises he made to the FUNDING agency, why would he honor the promises he made to you, once you become his student?*** This might even hold true if you are his academic collaborator.
 
 **Besides, it also exhibited an astonishing amount of incompetence and irresponsibility in the SFU School of Computing Science.**
 
