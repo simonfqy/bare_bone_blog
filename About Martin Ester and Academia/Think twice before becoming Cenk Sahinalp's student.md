@@ -38,7 +38,7 @@ Similar to Dr. Sahinalp, those professors are also very selfish and have questio
 
 Like Cenk but to a lesser degree, if those people didn't even honor the promises they made to the FUNDING agency, why would they honor the promises made to you, once you become their student?
 
-### The (unsuccessful) defense for Cenk
+### A (unsuccessful) defense for Cenk
 
 Now let's come up with a defensive argument for Cenk, note that I don't know the complete truth for sure: When Cenk became the MADD-Gen program's rotational chair, it was already quite obvious that some of MADD-Gen program's promises couldn't be kept, e.g., the promised course offerings. Thus, the program's termination would be inevitable no matter whether Cenk worked on student exchanges and internships or not. If so, is Cenk still so guilty in not performing his duties?
 
