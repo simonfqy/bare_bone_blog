@@ -40,18 +40,19 @@ Like Cenk but to a lesser degree, if those people didn't even honor the promises
 
 ### Defense for Cenk and its rebuttals
 
-Now let's come up with a defense argument for Cenk. Note that I don't know the complete truth, so this argument is hypothetical: When Cenk became the MADD-Gen program's rotational chair, it was already quite obvious that some of MADD-Gen program's promises couldn't be kept, e.g., the promised course offerings. Thus, the program's termination would be inevitable regardless of whether Cenk worked on student exchanges and internships. If so, is Cenk still very guilty?
+Now let's come up with a defense for Cenk. Note that I don't know the complete truth, so this argument is hypothetical: When Cenk became the MADD-Gen program's rotational chair, it was already quite obvious that some of MADD-Gen program's promises couldn't be kept, e.g., the promised course offerings. Thus, the program's termination would be inevitable regardless of whether Cenk worked on student exchanges and internships. If so, is Cenk still very guilty?
 
-Actually, if Cenk truly performed his duty, probably most promises would have been met, which could make this argument invalid. However, even with this lenient argument, Cenk is still very guilty, for the following reasons:
+Actually, if Cenk truly performed his duty, probably most promises would have been met, which could make this argument invalid. However, even assuming this lenient argument is true, Cenk is still very guilty, for the following reasons:
 
 1. This incompetent and irresponsible management truly disappointed NSERC, eliminating any hope they probably once had in MADD-Gen committee;
 2. Those promises were also made to students, Cenk's failure to keep these promises unlawfully breaches the obligations set out in those students' offer letters.
 
 Reason #2 is self-explanatory, let's dive deeper into reason #1. I think NSERC's disappointments are as follows:
 
-1. **This shows MADD-Gen committee isn't engaged in the program.** If they cannot do such a simple thing, it's a problem with attitude. If there are truly insurmountable difficulties in fulfilling their promises, I think NSERC would understand and accept it, since any projects face unforeseen challenges, but clearly, sending students for exchange and internship won't entail such difficulties. Then why give money to a bunch of professors who obviously aren't interested or committed to what you want them to do?
+1. **This shows MADD-Gen committee isn't engaged in the program.** If there are truly insurmountable difficulties in fulfilling their promises, I think NSERC would understand it and be forgiving, since any projects may encounter unforeseen challenges. But clearly, sending students for exchange and internship won't entail such difficulties. If they cannot do, or even try to do such a simple thing, it's a problem with attitude and engagement. Then why give money to a bunch of professors who obviously aren't engaged in or committed to what you want them to do?
 2. **This shows MADD-Gen committee has terrible leadership and execution.** It's related to the engagement problem: poor leadership and execution can lead to low engagement, while low engagement makes the leadership and execution even weaker.
    1. Being the rotational chair of the program, why didn't Cenk do anything to prevent or mitigate the issue before it was too late? Isn't this problem completely foreseeable and solvable?
-   2. When problems started to show up, why other professors didn't step up to take matters into their own hands? Why was the MADD-Gen program in disarray and stayed dysfunctional for such a long time?
+   2. Why other professors didn't step up to take matters into their own hands to solve the problem early on? Why was the MADD-Gen program in disarray and stayed dysfunctional for such a long time?
    3. Now the problem is mitigated, but with this weak leadership and execution, how can NSERC be confident that similar things won't happen in the future, when something happens to the rotational chair?
+3. **This shows MADD-Gen committee has problematic work ethics and perhaps morality in general.**
 
