@@ -47,14 +47,14 @@ Like Cenk but to a lesser degree, if those people didn't even honor the promises
 
 Now let's come up with a defense for Cenk. Note that I don't know the complete truth, so this argument is hypothetical: When Cenk became the MADD-Gen program's rotational chair, it was already quite obvious that some of MADD-Gen program's promises couldn't be kept, e.g., the promised course offerings. Thus, the program's termination would be inevitable regardless of whether Cenk worked on student exchanges and internships. If so, is Cenk still very guilty?
 
-Actually, if Cenk truly performed his duty, probably most promises would have been met, which could make this argument invalid. However, even assuming this lenient argument is true, Cenk is still very guilty, for the following reasons:
+Actually, I think this argument’s implicit assumption of a strict NSERC is not true. I don't think NSERC is that strict, they should have some tolerance on failure to meet certain promises, as long as there exist proper justifications. Any projects can encounter unforeseen challenges and NSERC should be no stranger to that. However, what Cenk did was not justifiable. He is very guilty, for the following reasons:
 
 1. This incompetent and irresponsible management truly disappointed NSERC, eliminating any hope they probably once had in MADD-Gen committee;
 2. Those promises were also made to students, Cenk's failure to keep these promises unlawfully breaches the obligations set out in those students' offer letters.
 
 Reason #2 is self-explanatory, let's dive deeper into reason #1. I think NSERC's disappointments are as follows:
 
-1. **This incident shows MADD-Gen committee isn't engaged in the program.** If there are truly insurmountable difficulties in fulfilling their promises, NSERC would likely understand it and be forgiving, since any projects may encounter unforeseen challenges. But clearly, this doesn't apply to sending students for exchange and internship. If they cannot do, or even TRY to do such a simple thing, it's a problem with attitude and engagement. Then why give precious money to a bunch of professors who aren't engaged or committed?
+1. **This incident shows MADD-Gen committee isn't engaged in the program.** If there are truly insurmountable difficulties in fulfilling their promises, NSERC would likely understand it and be forgiving. But clearly, this doesn't apply to sending students for exchange and internship. If they cannot do, or even TRY to do such a simple thing, it's a problem with attitude and engagement. Then why give precious money to a bunch of professors who aren't engaged or committed?
 2. **This incident shows MADD-Gen committee has terrible leadership and execution.** It forms a vicious cycle with the engagement problem: poor leadership and execution can lead to low engagement, while low engagement makes the leadership and execution even weaker.
    1. Being the rotational chair of the program, why didn't Cenk do anything to prevent or mitigate the issue before it was too late? Isn't this problem completely foreseeable and solvable?
    2. Why other professors didn't step up to take matters into their own hands to solve the problem early on? Why was the MADD-Gen program in disarray and stayed dysfunctional for such a long time?
