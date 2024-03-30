@@ -22,12 +22,14 @@ It got terminated prematurely due to MADD-Gen committee's failure to meet the pr
 
 **This story clearly showed how selfish and despicable Cenk truly was.** 
 
-Unlike some other of their failures that are somewhat justified, for example, being unable to open some courses promised in MADD-Gen program plan due to little to no students enrolling, sending students for exchange isn't something difficult to do: it just requires a small amount of attention and effort from the program chair, he didn't have to create anything new, as the exchange program was already running smoothly under the earlier rotational chairs. Yet Cenk refused to fulfill such a simple responsibility, probably because it wouldn't benefit him personally, and he didn't care about the students' development or the long-term success of MADD-Gen program.
+Unlike some of their other failures that are more justified, for example, being unable to open some promised courses due to little to no students enrolling, sending students for exchange is quite easy: it just requires a small amount of attention and effort from the program chair, he didn't have to create anything new, as the exchange program was already running smoothly under the earlier rotational chairs. Yet Cenk refused to fulfill such a simple responsibility, probably because it wouldn't benefit him personally, and he didn't care about the students' development or the long-term success of MADD-Gen program.
 
-If the pursuit of his personal interest prevented Cenk from fulfilling such a simple responsibility, despite knowing that it could lead to years of economic hardship for many students, what else do you expect him to do? If he has to choose between your interest and his own, do you think he'll even hesitate for one second? 
+I wonder whether Cenk ever tried any alternatives, like asking other colleagues to help arrange student exchanges. Likely not.
 
-***Cenk doesn't even honor the promises he made to the FUNDING agency, why would he honor the promises he made to you, once you become his student?*** This might even hold true if you are his academic collaborator.
+If the pursuit of his personal interest prevented Cenk from fulfilling such a simple responsibility, despite knowing it could lead to years of economic hardship for many students, do you think it's even possible that he'll take some greater responsibilities? If he has to choose between your interest and his own, do you think he'll even hesitate for one second? 
+
+***Cenk doesn't even honor the promises he made to the FUNDING agency, why would he honor the promises he made to you, once you become his student, or even collaborator?***
 
 **Besides, it also exhibited an astonishing amount of incompetence and irresponsibility in the SFU School of Computing Science.**
 
-
+The MADD-Gen committee is a team, where people should look after each other to ensure the team's success. When Cenk slacks off, the teammates should pick up where he left off, but obviously, it didn't happen. 
