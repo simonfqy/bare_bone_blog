@@ -8,7 +8,7 @@ However, a great researcher as he is, I have a very negative judgment of him, bo
 
 **He is very selfish, completely disregarding his responsibility or other people's interests while pursuing his own interest, probably even committing minor fraud. It may even suffice to say, he is despicable.**
 
-### Table of Contents
+## Table of Contents
 - [Problem 1: Deceptive](#problem-1-deceptive)
 - [Problem 2: Extremely irresponsible](#problem-2-extremely-irresponsible)
   - [Defense for Cenk and its rebuttals](#defense-for-cenk-and-its-rebuttals)
