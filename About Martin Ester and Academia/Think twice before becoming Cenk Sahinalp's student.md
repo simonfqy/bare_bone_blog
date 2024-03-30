@@ -11,6 +11,7 @@ However, a great researcher as he is, I have a very negative judgment of him, bo
 ### Table of Contents
 - [Problem 1: Deceptive](#problem-1-deceptive)
 - [Problem 2: Extremely irresponsible](#problem-2-extremely-irresponsible)
+  - [Defense for Cenk and its rebuttals](#defense-for-cenk-and-its-rebuttals)
 
 ## Problem 1: Deceptive
 
@@ -67,3 +68,18 @@ Reason #2 is self-explanatory, let's dive deeper into reason #1. I think NSERC's
 
 These huge flags should've played a crucial role in the termination decision. Although they existed with the MADD-Gen committee as a whole, it was Cenk's behavior that revealed all of them to NSERC, so I think he's very guilty even with our lenient defense argument.
 
+## Problem 3: Difficult to get along with
+
+I heard this quote from some of his students. For a student, this shouldn't be a big issue: as long as your supervisor is a good person and competent researcher, some challenges in your relationship could be the price you're willing to take. After all, no one is perfect.
+
+But now we know his other problems, this problem becomes harder to ignore. I guess "difficult to get along with" means Cenk is: 
+- rude
+- self-centered without regard for other people's feelings or interests
+- probably has moral issues which makes you feel nasty
+- probably (?) asks for higher authorship than he truly deserves
+
+I cannot speculate too much and I'll stop here.
+
+## Implications for readers
+
+I said a lot of bad things about Dr. Sahinalp. However, based on my limited understanding of him, he's actually okay in academia. At least 20% of all professors could be worse than him. Meanness and misconduct are so rampant in academia that, it effectively lowers the participants' moral standards. Due to the nature of academia, lots of these issues are not made known to the outside world, professors end up enjoying a higher social status than they truly deserve. I'll write another article about this dark side in the future.
