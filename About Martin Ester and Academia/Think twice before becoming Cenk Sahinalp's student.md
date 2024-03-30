@@ -32,7 +32,7 @@ If the pursuit of his personal interest prevented Cenk from fulfilling such a si
 
 **Besides, it also exhibited an astonishing amount of incompetence and irresponsibility in the SFU School of Computing Science.**
 
-The MADD-Gen committee was a team. When Cenk slacked off, his teammates should pick up where he left off to ensure the team's success, which obviously didn't happen. Overall, this was a very incompetent and irresponsible team, people just sit back to see things fail without even attempting to salvage the situation. To make matters worse, those team members even continued recruiting students to the MADD-Gen program until its last day without telling us the truth, despite knowing its termination well in advance, which constituted fraud based on the [Canada Criminal Code](https://laws-lois.justice.gc.ca/eng/acts/c-46/section-380.html).
+The MADD-Gen committee was a team. When Cenk slacked off, his teammates should pick up where he left off to ensure the team's success, which obviously didn't happen. Overall, this was a very incompetent and irresponsible team, people just sit back to see things fail without even attempting to salvage the situation. To make matters worse, those team members even continued recruiting students to the MADD-Gen program until its last day without telling them the truth, despite knowing its termination well in advance, which constituted fraud based on the [Canada Criminal Code](https://laws-lois.justice.gc.ca/eng/acts/c-46/section-380.html).
 
 Similar to Dr. Sahinalp, those professors are also very selfish and have questionable moral standards. They include [Dr. Martin Ester](https://github.com/simonfqy/bare_bone_blog/blob/main/About%20Martin%20Ester%20and%20Academia/Martin%20Ester's%20breach%20of%20law%20and%20lessons%20I%20learned%20from%20my%20legal%20claim.md) (my own supervisor), Dr. Cedric Chauve, Dr. Leonid Chindelevitch, Dr. Funda Ergun, Dr. Arrvindh Shriraman, and probably many others. You can refer to [here](https://web.archive.org/web/20160802213853/http://www.sfu.ca/madd-gen/faculty-researchers.html) for more info. Apart from Dr. Martin Ester, I don't know whether other aforementioned professors deceived and under-funded their students similarly, but I think some level of deception existed.
 
@@ -44,6 +44,11 @@ Now let's come up with a defense argument for Cenk, note that I don't know the c
 
 Actually, if Cenk truly performed his duty, probably most promises would have been met, which makes this argument invalid. However, even with this lenient argument, Cenk is still very guilty, for the following reasons:
 
-1. Cenk's incompetent and irresponsible management truly disappointed NSERC, depriving them of any hope they probably had in MADD-Gen committee;
-2. Those promises are also promises to students, Cenk's failure to keep these promises harms the students' interests.
+1. This incompetent and irresponsible management truly disappointed NSERC, eliminating any hope they probably once had in MADD-Gen committee;
+2. Those promises were also promises to students, Cenk's failure to keep these promises harms the students' interests.
+
+Reason #2 is self-explanatory, let's dive deeper into reason #1. I think the disappointment of NSERC are as follows:
+
+1. **This shows MADD-Gen committee isn't engaged in the program.** If they cannot do such a simple thing, it's problem with attitude. If there are truly insurmountable difficulties preventing them from fulfilling their promises, I think NSERC would understand, since any projects face unforseen challenges, but sending students for exchange and internship clearly isn't. Why giving money to a bunch of professors who obviously aren't interested or committed to what you want them to do?
+2. **This shows MADD-Gen committee has terrible leadership.**
 
