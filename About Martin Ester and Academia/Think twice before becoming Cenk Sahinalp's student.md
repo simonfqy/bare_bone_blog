@@ -40,7 +40,7 @@ Like Cenk but to a lesser degree, if those people didn't even honor the promises
 
 ### A (unsuccessful) defense for Cenk
 
-Now let's come up with a defensive argument for Cenk, note that I don't know the complete truth for sure: When Cenk became the MADD-Gen program's rotational chair, it was already quite obvious that some of MADD-Gen program's promises couldn't be kept, e.g., the promised course offerings. Thus, the program's termination would be inevitable no matter whether Cenk worked on student exchanges and internships or not. If so, is Cenk still so guilty in not performing his duties?
+Now let's come up with a defense argument for Cenk, note that I don't know the complete truth for sure, so this argument is hypothetical: When Cenk became the MADD-Gen program's rotational chair, it was already quite obvious that some of MADD-Gen program's promises couldn't be kept, e.g., the promised course offerings. Thus, the program's termination would be inevitable regardless of whether Cenk worked on student exchanges and internships. If so, is Cenk still very guilty?
 
-The answer is still YES.
+The answer is YES.
 
