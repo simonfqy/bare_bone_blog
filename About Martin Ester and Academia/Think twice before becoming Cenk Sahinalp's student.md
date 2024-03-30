@@ -44,6 +44,6 @@ Now let's come up with a defense argument for Cenk, note that I don't know the c
 
 Actually, if Cenk truly performed his duty, probably most promises would have been met, which makes this argument invalid. However, even with this lenient argument, Cenk is still very guilty, for the following reasons:
 
-1. The incompetent and irresponsible management truly disappointed NSERC, depriving them of any hope they probably had in MADD-Gen committee;
-2. Those promises are also promises to students, failure to keep these promises harms the students' interests.
+1. Cenk's incompetent and irresponsible management truly disappointed NSERC, depriving them of any hope they probably had in MADD-Gen committee;
+2. Those promises are also promises to students, Cenk's failure to keep these promises harms the students' interests.
 
