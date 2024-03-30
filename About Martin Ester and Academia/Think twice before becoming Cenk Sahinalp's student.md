@@ -24,7 +24,9 @@ It got terminated prematurely due to MADD-Gen committee's failure to meet the pr
 
 Unlike some other of their failures that are somewhat justified, for example, being unable to open some courses promised in MADD-Gen program plan due to little to no students enrolling, sending students for exchange isn't something difficult to do: it just requires a small amount of attention and effort from the program chair, he didn't have to create anything new, as the exchange program was already running smoothly under the earlier rotational chairs. Yet Cenk refused to fulfill such a simple responsibility, probably because it wouldn't benefit him personally, and he didn't care about the students' development or the long-term success of MADD-Gen program.
 
-If the pursuit of his personal interest prevented Cenk from fulfilling such a simple responsibility, despite knowing that it could lead to years of economic hardship for many students (including me), what else do you expect him to do? If he has to choose between your interest and his own, do you think he'll even hesitate for one second? 
+If the pursuit of his personal interest prevented Cenk from fulfilling such a simple responsibility, despite knowing that it could lead to years of economic hardship for many students, what else do you expect him to do? If he has to choose between your interest and his own, do you think he'll even hesitate for one second? 
+
+***Cenk doesn't even honor the promises he made to the FUNDING agency, why would he honor the promises he made to you, once you become his student?***
 
 **Besides, it also exhibited an astonishing amount of incompetence and irresponsibility in the SFU School of Computing Science.**
 
