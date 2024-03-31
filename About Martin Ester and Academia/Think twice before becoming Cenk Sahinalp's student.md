@@ -87,7 +87,21 @@ I cannot speculate too much and I'll stop here. But in my opinion, unless this p
 
 ## Implications for readers
 
-I said a lot of bad things about Dr. Sahinalp. However, based on my limited understanding of him, he's actually okay in academia. At least 20% of all professors could be worse than him. Meanness and misconduct are so rampant in academia that, it effectively lowers the participants' moral standards and when assessing a professor, we must use more lenient criteria than elsewhere. Due to the nature of academia, lots of these issues are not made known to the outside world, professors end up enjoying a higher social status than they truly deserve. I'll write another article about this dark side in the future.
+Dr. Sahinalp's dishonesty and irresponsibility are quite eye-opening, and you must consider those issues when choosing your graduate supervisor. But as a responsible author, I must stay balanced and honest.
+
+Comparatively speaking, Cenk is not that bad in academia, based on my limited understanding of him. At least 20% of all professors could be worse than him. Meanness and misconduct are so rampant in academia that, it effectively lowers the participants' moral standards and when assessing a professor, we should use more lenient criteria than elsewhere. Due to the nature of academia, lots of these issues are not made known to the outside world, professors end up enjoying a higher social status than they truly deserve. I'll write another article about this dark side in the future.
+
+Avoiding Cenk doesn't mean you'll find a better professor. It is very rare for graduate students to write bad reviews for their supervisors, especially if the student works in academia after graduation. As of now (beginning of April 2024), there're no negative reviews of Dr. Sahinalp online, except this one. Please keep in mind that, if you read this article and decide not to be Cenk's student, you could end up with an even worse professor who has no negative reviews online, although I think the probability of finding a better professor is higher.
+
+Cenk has questionable work ethics and morality, but if you become his student, you may be lucky enough that his issues don't manifest in your interactions and you stay unharmed, although I suggest you not count on luck. There are 4 things that I think are the worst for a professor: academic misconduct and crimes, physically and mentally abusing students, intentionally and severely delaying graduation, and severely stealing your authorship. If Cenk doesn't have those misconducts, he's an acceptable supervisor. Problem is, I don't know whether he has those severe misconducts.
+
+If you have a real interest in scientific research and a career in academia, Cenk could still be a good choice, as long as he doesn't have the 4 severe misconducts mentioned above. His knowledge, experience, intelligence, and fame will give you a headstart in your academic career. In academia, it is research capabilities and connections that matter the most, Cenk will help you get them, and surely you need to pay some price for it.
+
+Do you see why I say academia has low moral standards? Those issues with Cenk could be deal-breakers in a romantic relationship or an employment relationship in the industry, but in academia, they're somewhat acceptable and not the most critical. Research institutes will continue to employ him, collaborators will continue to work with and praise him, and students will continue to come to him; no disciplinary measures will be taken whatsoever.
+
+Such is the truth with academia. If you strongly resent this culture, then don't become a research graduate student; at least, don't do a PhD, unless there're absolutely no better alternatives.
+
+The decision is yours. I hope this article has provided you with valuable information to help you succeed in your life.
 
 ## Disclaimer
 
