@@ -72,7 +72,7 @@ These huge red flags should've been critical in the termination decision. Althou
 
 I heard this quote from some of his students. For a student, this shouldn't be a big issue: as long as your supervisor is a good person and competent researcher, some challenges in your relationship could be the price you're willing to take. After all, no one is perfect.
 
-But now we know his other problems, this problem becomes harder to ignore: they become "icing on a cake", but in a bad way. I guess "difficult to get along with" means Cenk is: 
+But now we know his other problems, this problem becomes harder to ignore: they literally "add insult to injury". I guess "difficult to get along with" means Cenk is: 
 - rude
 - bad temper, easily offended
 - self-centered without regard for other people's feelings or interests
