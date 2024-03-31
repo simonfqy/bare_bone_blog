@@ -38,7 +38,7 @@ If the pursuit of his personal interest prevented Cenk from fulfilling such a si
 
 ***Cenk doesn't even honor the promises he made to the FUNDING agency, why would he honor the promises he made to you, once you become his student, or even collaborator?***
 
-**Besides, it also exhibited an astonishing amount of incompetence and irresponsibility in the SFU School of Computing Science.**
+**Besides, it also demonstrated an astonishing amount of incompetence and irresponsibility in the SFU School of Computing Science.**
 
 The MADD-Gen committee was a team. When Cenk slacked off, his teammates should pick up where he left off to ensure the team's success, which obviously didn't happen, at least not early enough. Overall, this was a very incompetent and irresponsible team, people just sat back to see things fail without intervening in time. To make matters worse, those team members even continued recruiting students to the MADD-Gen program until its last day without telling them the truth, despite knowing its termination well in advance, which constituted fraud based on the [Canada Criminal Code](https://laws-lois.justice.gc.ca/eng/acts/c-46/section-380.html).
 
@@ -90,3 +90,8 @@ I cannot speculate too much and I'll stop here. But in my opinion, unless this p
 I said a lot of bad things about Dr. Sahinalp. However, based on my limited understanding of him, he's actually okay in academia. At least 20% of all professors could be worse than him. Meanness and misconduct are so rampant in academia that, it effectively lowers the participants' moral standards and when assessing a professor, we must use more lenient criteria than elsewhere. Due to the nature of academia, lots of these issues are not made known to the outside world, professors end up enjoying a higher social status than they truly deserve. I'll write another article about this dark side in the future.
 
 ## Disclaimer
+
+This article probably contains copyrighted material, especially Cenk's photo, the use of which has not always been specifically authorized by the copyright owner. The photo, and any other copyrighted material herein, are made available in an effort to advance the public understanding of Dr. S. Cenk Sahinalp. It is believed that this constitutes a "fair use" of any such copyrighted material as provided for in section 107 of the US Copyright Law. In accordance with Title 17 U.S.C. Section 107, the material in this article is distributed without profit to those who express an interest in knowing more about Dr. S. Cenk Sahinalp. If you wish to use copyrighted material from this article for purposes of your own that go beyond "fair use", you must obtain permission from the copyright owner. 
+
+
+  
