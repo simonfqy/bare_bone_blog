@@ -12,6 +12,9 @@ However, a great researcher as he is, I have a very negative judgment of him, bo
 - [Problem 1: Deceptive](#problem-1-deceptive)
 - [Problem 2: Extremely irresponsible](#problem-2-extremely-irresponsible)
   - [Defense for Cenk and its rebuttals](#defense-for-cenk-and-its-rebuttals)
+- [Problem 3: Difficult to get along with](#problem-3-difficult-to-get-along-with)
+- [Implications for readers](#implications-for-readers)
+- [Disclaimer](#disclaimer)
 
 ## Problem 1: Deceptive
 
