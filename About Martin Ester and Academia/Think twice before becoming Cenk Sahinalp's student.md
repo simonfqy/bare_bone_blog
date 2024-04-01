@@ -46,7 +46,7 @@ If such an incident could have been avoided or mitigated so easily, yet it still
 
 ***Cenk doesn't even honor the promises he made to the FUNDING agency[^3], why would he honor the promises he made to you, once you become his student, or even collaborator?***
 
-**Besides, I think it also demonstrated an astonishing amount of incompetence and irresponsibility in the SFU School of Computing Science.**
+**Besides, I think it also demonstrated an astonishing level of incompetence and irresponsibility in the SFU School of Computing Science.**
 
 The MADD-Gen committee was a team. When Cenk slacked off, his teammates should pick up where he left off to ensure the team's success, which obviously didn't happen, at least not early enough. Overall, this was a very incompetent and irresponsible team, people just watched the tragedy (probably it's a comic rather than a tragedy for some of these professors) unfold without intervening in time. To make matters worse, some team members even continued recruiting students to the MADD-Gen program until its last day without telling them the truth, despite knowing its termination well in advance, which could constitute fraud based on the [Canada Criminal Code](https://laws-lois.justice.gc.ca/eng/acts/c-46/section-380.html).
 
