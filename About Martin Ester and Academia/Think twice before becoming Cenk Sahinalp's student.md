@@ -42,7 +42,7 @@ Considering how easy it was to avoid this incident and how serious the consequen
 
 I wonder whether Cenk tried any mitigation methods, like asking other colleagues to help arrange student exchanges and internships. Likely not, or not early enough.
 
-If such an incident could have been avoided or mitigated so easily, yet it still happened due to Cenk's indifference to other's interests, as well as the pursuit of his personal interests, despite knowing its grave economic consequences for many students, do you think it's even possible that he cares about your interests at all? If he has to choose between your interest and his own, do you think he'll even hesitate for one second?
+If such an incident could have been avoided or mitigated so easily, yet it still happened due to Cenk's indifference to others' interests, despite knowing its grave economic consequences for many students, do you think it's even possible that he cares about your interests at all? If he has to choose between your interest and his own, do you think he'll even hesitate for one second?
 
 ***Cenk doesn't even honor the promises he made to the FUNDING agency[^3], why would he honor the promises he made to you, once you become his student, or even collaborator?***
 
