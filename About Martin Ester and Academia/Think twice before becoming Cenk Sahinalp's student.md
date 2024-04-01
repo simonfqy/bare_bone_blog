@@ -38,7 +38,7 @@ It's understandable that Cenk refused this responsibility due to his busy schedu
 
 Oh that is the answer: Cenk indeed thought it had nothing to do with him. After all, the consequences of funding termination wouldn't affect him personally. They would hit students hard, but Cenk could not care less. Perhaps in his mind, students are meant to be compromised, betrayed, and mistreated. 
 
-Considering how easy it was to avoid this incident and how serious the consequences were to the students, Cenk's behavior showed an astounding level of selfishness and irresponsibility, revealing his true, disgusting nature. It's probably accurate to say that, Cenk's integrity, as well as the management of MADD-Gen, are merely jokes.
+Considering how easy it was to avoid this incident and how serious the consequences were to the students, Cenk's behavior showed an astounding level of selfishness and irresponsibility, revealing his true, disgusting nature. It's probably accurate to say that, Cenk's integrity and MADD-Gen program's management are jokes.
 
 I wonder whether Cenk tried any mitigation methods, like asking other colleagues to help arrange student exchanges and internships. Likely not, or not early enough.
 
