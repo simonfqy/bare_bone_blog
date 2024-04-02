@@ -4,7 +4,7 @@
 
 [Dr. S. Cenk Sahinalp](https://ccr.cancer.gov/staff-directory/s-cenk-sahinalp) is an accomplished scholar in bioinformatics. His research excellence is remarkable: apart from his shiny titles and outstanding publications, I also heard people, including both his students and collaborators, praising his research work in private conversations. He is said to have a solid grasp of his research fields, and whatever paper he writes is guaranteed good quality.
 
-However, a great researcher as he is, I have a very negative judgment of him, both as a supervisor and as a person, although I've never been his student or directly interacted with him in any way.
+However, a great researcher as he is, I have a very negative judgment of him, both as a supervisor and as a person. Although I've never been his student or directly interacted with him in any way, his irresponsibility caused significant hardship in my graduate studies.
 
 **He seems to be very selfish, completely disregarding his responsibility or other people's interests while pursuing his own interest, probably even committing minor fraud. It may even suffice to say, he is despicable.**
 
