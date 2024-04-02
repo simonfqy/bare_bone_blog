@@ -2,7 +2,7 @@
 
 ![cenk_sahinalp_-_235px](https://github.com/simonfqy/bare_bone_blog/assets/10753120/7f973a64-f583-4fd9-8ec9-65cb4a08c32c)
 
-[Dr. S. Cenk Sahinalp](https://ccr.cancer.gov/staff-directory/s-cenk-sahinalp) is an accomplished scholar in bioinformatics. His research excellence is remarkable: apart from his shiny titles and outstanding publications, I also heard people, including both his students and collaborators, praising his research work in private conversations. He is said to have a solid grasp of his research fields, and whatever paper he writes is guaranteed good quality.
+[Dr. S. Cenk Sahinalp](https://ccr.cancer.gov/staff-directory/s-cenk-sahinalp) is an accomplished scholar in bioinformatics. Apart from his shiny titles and outstanding publications, I also heard people, including both his students and collaborators, praising his research work in private conversations. He is said to have a solid grasp of his research fields, and whatever paper he writes is guaranteed high quality.
 
 However, a great researcher as he is, I have a very negative judgment of him, both as a supervisor and as a person. Although I've never been his student or directly interacted with him in any way, his irresponsibility caused significant hardship in my graduate studies.
 
