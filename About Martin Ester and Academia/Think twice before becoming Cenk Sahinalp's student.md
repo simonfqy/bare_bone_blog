@@ -117,7 +117,7 @@ The decision is yours. I hope this article has provided you with valuable inform
 
 Regarding some important facts I mentioned in this article, I possess some evidence that I can confidently show in a court trial, if it ever takes place.
 
-I'm trying my best to be responsible and accurate in this article, but errors and omissions could still occur. If presented with compelling proof of errors and omissions, I'm willing to modify this article in accordance with the truth.
+I'm trying my best to be responsible and accurate in this article, but errors, distortions and omissions could still occur. If presented with compelling proof of such problems, I'm willing to modify this article in accordance with the fact.
 
 This article probably contains copyrighted material, especially Cenk's photo, the use of which has not always been specifically authorized by the copyright owner. The photo, and any other copyrighted material herein, are made available in an effort to advance the public understanding of Dr. S. Cenk Sahinalp. It is believed that this constitutes a "fair use" of any such copyrighted material as provided for in section 107 of the US Copyright Law. In accordance with Title 17 U.S.C. Section 107, the material in this article is distributed without profit to those who express an interest in knowing more about Dr. S. Cenk Sahinalp. If you wish to use copyrighted material from this article for purposes of your own that go beyond "fair use", you must obtain permission from the copyright owner. 
 
