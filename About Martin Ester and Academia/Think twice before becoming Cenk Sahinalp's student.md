@@ -34,11 +34,11 @@ The program got terminated prematurely due to MADD-Gen committee's failure to me
 
 Unlike the committee's other failures that are more justified, for example, being unable to open some promised courses due to little to no students enrolling, sending students for exchange or internship is relatively easy: it just requires a small amount of attention and effort from the program chair, he didn't have to create anything new, as the exchange and internship programs were already running smoothly under the earlier chairs[^2]. Yet Cenk refused to fulfill such a simple responsibility.
 
-It's understandable that Cenk refused this responsibility due to his busy schedule at Indiana University, but he could have easily avoided harming students: he could have made alternative arrangements well in advance, to let his colleagues take this responsibility, which would ensure normal operation of the MADD-Gen program. Why on earth didn't he do so? Isn't this problem completely foreseeable and easily preventable? Why he simply sat back to see things fall apart, as if he had nothing to do with it?  
+It's understandable that Cenk didn't want this responsibility due to his busy schedule at Indiana University, but he could have easily avoided harming students: he could have made alternative arrangements well in advance, to let his colleagues take this responsibility, which would ensure normal operation of the MADD-Gen program. Why on earth didn't he do so? Isn't this problem completely foreseeable and easily preventable? Why he simply sat back to see things fall apart, as if he had nothing to do with it?  
 
 Perhaps that is the answer: Cenk indeed thought it had nothing to do with him. After all, the consequences of funding termination wouldn't affect him personally. They would hit students hard, but Cenk could not care less. Perhaps in his mind, students are meant to be compromised, betrayed, and mistreated. 
 
-Considering how easy it was to avoid this incident and how serious the consequences were to the students, Cenk's behavior showed an astounding level of selfishness and irresponsibility, revealing his disgusting nature. It's probably accurate to say that, Cenk's integrity and MADD-Gen program's management are jokes.
+Considering how easy it was to avoid this incident and how serious the consequences were to the students, Cenk's behavior showed an astounding level of selfishness and irresponsibility, revealing his disgusting nature. I have to say, Cenk's integrity and MADD-Gen program's management are jokes.
 
 I wonder whether Cenk tried any mitigation methods, like asking other colleagues to help arrange student exchanges and internships. Likely not, or not early enough.
 
