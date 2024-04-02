@@ -8,7 +8,7 @@ However, a great researcher as he is, I have a very negative judgment of him, bo
 
 **He seems to be very selfish, completely disregarding his responsibility or other people's interests while pursuing his own interest, probably even committing minor fraud. It may even suffice to say, he is despicable.**
 
-Nevertheless, although these issues can be deal-breakers in most relationships, they are less of a concern in academia: if you really want to pursue an academic career, Cenk might still be a good supervisor, which I'll explain in the [Implications for readers](#implications-for-readers) section.
+Nevertheless, while these issues can be deal-breakers in most relationships, they are less of a concern in academia: if you really want to pursue an academic career, Cenk might still be a good supervisor, which I'll explain in the [Implications for readers](#implications-for-readers) section.
 
 ## Table of Contents
 - [Problem 1: Deceptive](#problem-1-deceptive)
