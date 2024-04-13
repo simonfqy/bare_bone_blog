@@ -43,7 +43,7 @@ Dr. [Martin Ester](https://en.wikipedia.org/wiki/Martin_Ester) is a world-renown
 
 However, Dr. Martin Ester also has skeletons in his cupboard: he violated the law due to breach of contract, by making false funding promises to recruit me as his master’s student, and eventually didn’t fulfill these promises. Several years after graduation, I started a legal claim against him and successfully got back some of the owed funding. 
 
-Yes, a world-renowned scientist, an RSC fellow, severely broke the promise made in my offer letter by paying me less than half (43%) of the amount. Even though I only asked for 6430.72 CAD (~5,000 USD), which was just 27% of what he owed me (24073 CAD) based on the offer letter, he still refused to pay, forcing me to take legal action. 
+Yes, a world-renowned scientist, an RSC fellow, severely broke the promise by paying me less than half (43%) of the amount. Even though I only asked for 6430.72 CAD (~5,000 USD), which was just 27% of what he owed me (24073 CAD) based on the offer letter, he still refused to pay, forcing me to take legal action. 
 
 ### Condensed timeline of events
 Before I go into the lessons I learned from this legal claim, let me give you a bit of background by presenting you with a condensed timeline of events. 
