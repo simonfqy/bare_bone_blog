@@ -43,12 +43,12 @@ Dr. [Martin Ester](https://en.wikipedia.org/wiki/Martin_Ester) is a world-renown
 
 However, Dr. Martin Ester also has skeletons in his cupboard: he violated the law due to breach of contract, by making false funding promises to recruit me as his master’s student, and eventually didn’t fulfill these promises. Several years after graduation, I started a legal claim against him and successfully got back some of the owed funding. 
 
-Yes, a world-renowned scientist, an RSC fellow, would rather violate the Contract Law than pay me 6430.72 CAD (~5,000 USD), which was already much lower than what I could’ve asked for based on my offer letter. 
+Yes, a world-renowned scientist, an RSC fellow, severely broke the promise made in my offer letter by paying me less than half (43%) of the amount. Even though I only asked for 6430.72 CAD (~5,000 USD), which was just 27% of what he owed me (24073 CAD) based on the offer letter, he still refused to pay, forcing me to take legal action. 
 
 ### Condensed timeline of events
 Before I go into the lessons I learned from this legal claim, let me give you a bit of background by presenting you with a condensed timeline of events. 
 
-1. At a certain time before 2016, the MADD-Gen program, which was a bioinformatics program in SFU funded by NSERC, was apparently going to have its funding terminated by the end of the calendar year 2016, due to incompetent and irresponsible management.
+1. At a certain time before 2016, the MADD-Gen program, which was a bioinformatics program in SFU funded by NSERC, was apparently going to have its funding terminated by the end of the calendar year 2016, due to [incompetent and irresponsible management](https://github.com/simonfqy/bare_bone_blog/blob/main/About%20Martin%20Ester%20and%20Academia/Think%20twice%20before%20becoming%20Cenk%20Sahinalp's%20student.md#problem-2-extremely-irresponsible).
 2. In Jan 2016, I applied for SFU’s Thesis-based Master in CS program (without expressing an interest in MADD-Gen).
 3. In Feb 2016, Dr. Martin Ester reached out to me to recruit me as his master’s student under the MADD-Gen program, using its funding promise as a major selling point, without mentioning its imminent termination. 
 4. In Mar 2016, I accepted SFU’s offer as a thesis-based master in Computing Science under the MADD-Gen program. The offer letter promised a MADD-Gen fellowship funding of “at least 21,000 CAD per year for the first 2 years, with probably continued funding beyond the first two years”. I accepted the offer largely due to the enticing financial aid. 
@@ -56,13 +56,13 @@ Before I go into the lessons I learned from this legal claim, let me give you a 
 6. In Sept 2016, I started my studies as a thesis-based master supervised by Dr. Martin Ester. 
 7. In Jan 2017, I was informed that the funding wasn’t simply “uncertain”. It was terminated and I was deceived all along. Later in 2017, Dr. Ester tried to get funding continuation by setting up an “Omics” program to replace MADD-Gen, but was unsuccessful in getting MADD-Gen students funded through this new program. 
 8. In May 2017, I started working on my thesis research project, the goal was to get the work published in a journal. 
-9. In the academic year 2016 ~ 2017, I got 27.5K CAD of funding, part of which comes from TA salary. In the academic year 2017 ~ 2018, I only got 8K CAD. 
-10. In 2018, I asked Dr. Ester multiple times for funding, but he insisted on using the acceptance of the paper by a journal as a prerequisite for releasing the funding. And he declined to pay me 13K, saying that the “overfulfilled” portion in year 1 should be deducted from the amount in year 2, resulting in only 6.4K CAD. 
-11. In Dec 2018, the submitted paper got a favorable first round of review. I tried to negotiate funding with Dr. Ester and he agreed to release half (3.2K CAD) of it immediately. But several days later, he retracted, reiterating the acceptance of the paper as the prerequisite. I then decided to get graduated first. 
+9. In the academic year 2016 ~ 2017, I got 27.5K CAD of funding, part of which (~10K) came from TA salary, and only got 11K CAD MADD-Gen fellowship. In the academic year 2017 ~ 2018, I only got 8K CAD. 
+10. In 2018, I asked Dr. Ester multiple times for funding, but he insisted on using the acceptance of the paper by a journal as a prerequisite for releasing the funding. And he declined to pay me 13K, saying that the “overfulfilled” portion in year 1 should be deducted from the amount in year 2, resulting in only 6.4K CAD. This calculation method is unlawful, but I still agreed.
+11. In Dec 2018, the submitted paper got a favorable first round of review. I tried to negotiate funding with Dr. Ester and he agreed to release half (3.2K CAD) of it immediately. But several days later, he retracted, reiterating the acceptance of the paper as the prerequisite. I then decided to graduate first. 
 12. In Mar 2019, I graduated. 
 13. In 2019, the paper cannot seem to get published despite multiple attempts, because the reviewers have changed, new reviewers were much more critical. 
 14. In Mar 2020, I asked Dr. Ester for funding again. He again used acceptance of the paper as the prerequisite. 
-15. In Oct 2022, after researching laws, the offer letter and university regulations, I finally launched a legal claim against Dr. Ester and successfully forced him to pay me 6.7K CAD (300 of which was accumulated interest) through a settlement agreement.
+15. In Oct 2022, after researching laws, the offer letter and university regulations, I finally launched a legal claim against Dr. Ester and successfully forced him to pay me 6.7K CAD (300 of which was accumulated interest) through a settlement agreement, although I could've claimed 25K CAD.
 
 For more details, you can read the [demand letter](#my-demand-letter) in the appendix. That demand letter started a thread of email communication (part of which is included in the appendix), which led to Dr. Ester seeking help from the university legal counsel, and they eventually agreed to completely satisfy my demands and settle the case. My email communication with the legal counsel is omitted from this article.
 
