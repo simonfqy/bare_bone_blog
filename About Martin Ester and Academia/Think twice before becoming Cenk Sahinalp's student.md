@@ -2,7 +2,7 @@
 
 ![cenk_sahinalp_-_235px](https://github.com/simonfqy/bare_bone_blog/assets/10753120/7f973a64-f583-4fd9-8ec9-65cb4a08c32c)
 
-This article is an identical copy of [my personal website post](https://www.antonfeng.me/think-twice-before-becoming-cenk-sahinalps-student).
+Identical copies of this article can be found on [my personal website](https://www.antonfeng.me/think-twice-before-becoming-cenk-sahinalps-student) and [Medium](https://antonfeng.medium.com/think-twice-before-becoming-cenk-sahinalps-student-6a8e24f1902c).
 
 [Dr. S. Cenk Sahinalp](https://ccr.cancer.gov/staff-directory/s-cenk-sahinalp) is an accomplished scholar in bioinformatics. Apart from his shiny titles and outstanding publications, I also heard people, including both his students and collaborators, praising his research work in private conversations. He is said to have a solid grasp of his research fields, and whatever paper he writes is guaranteed high quality.
 
